@@ -7,3 +7,5 @@ New line here
 2. Second line
 
 ## Testing new functionality with dev branch
+
+1. Another change on the dev branch
